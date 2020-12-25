@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="kajtuszd GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kajtuszd&count_private=true" />
+<img align="left" alt="kajtuszd GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kajtuszd&count_private=true&theme=tokyonight" />
 
 
 [twitter]: https://twitter.com/Kajetan17150211
