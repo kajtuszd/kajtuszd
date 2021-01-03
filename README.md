@@ -42,7 +42,7 @@
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajtuszd&langs_count=12&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajtuszd&langs_count=12&theme=radical)
 <br />
 
 
