@@ -48,7 +48,6 @@
 
 
 
-
 [twitter]: https://twitter.com/Kajetan17150211
 [facebook]: https://www.facebook.com/kajetan.zdanowicz
 [instagram]: https://www.instagram.com/kajetanzdanowicz/
