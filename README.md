@@ -20,12 +20,14 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+<br /> <br /> <br />
+
 ## Stats:
 
 <img align="left" alt="kajtuszd GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kajtuszd&count_private=true&theme=radical&show_icons=true" />
 
 
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajtuszd&langs_count=12&theme=radical)
