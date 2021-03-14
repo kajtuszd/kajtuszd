@@ -1,11 +1,4 @@
-## I'm a Student Programmer!
-
-- Loving sport :swimmer: :soccer: :ski:
-- Loving good food :pizza:
-- 2021 Goal: learn Django & .NET :computer: 
-- Looking forward to collaborate :sunglasses:
-
-### Social media:
+### Contact:
 
 [<img align="left" alt="kajtuszd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kajtuszd | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
