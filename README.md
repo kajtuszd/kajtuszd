@@ -26,7 +26,6 @@
 
 <img align="left" alt="kajtuszd GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kajtuszd&count_private=true&theme=radical&show_icons=true" />
 
-
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
