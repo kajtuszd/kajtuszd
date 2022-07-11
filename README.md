@@ -1,39 +1,67 @@
-## Contact:
+# Hello, I'm Kajetan ✋
 
-[<img align="left" alt="kajtuszd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kajtuszd | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="kajtuszd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="kajtuszd | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+## About me 💡
 
-<br />
+Programming enthusiast especially interested in backend apps, automation scripts and DevOps technologies.
 
-## Languages and Tools:
+I love sports: swimming, cycling, snowboarding, football.
 
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Django" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+Keen on learning new foreign languages and travelling.
 
-<br /> <br /> 
+## Contact 📎
 
-## Stats:
+[![linkedin]](https://www.linkedin.com/in/kajetan-zdanowicz-932ab7244/)
+[![ig]](https://www.instagram.com/kajetanzdanowicz/)
+[![strava]](https://www.strava.com/athletes/79348506)
 
-<img align="left" alt="kajtuszd GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kajtuszd&count_private=true&theme=radical&show_icons=true" />
+## Technology 🖥️
 
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+### Backend
 
+![django]
+![drf]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajtuszd&langs_count=12&theme=radical)
-<br />
+### Frontend
 
+![vue]
+![html]
+![css]
 
-[twitter]: https://twitter.com/Kajetan17150211
-[facebook]: https://www.facebook.com/kajetan.zdanowicz
-[instagram]: https://www.instagram.com/kajetanzdanowicz/
-[discord]: https://discordapp.com/users/689531625788407808
+### Languages
+
+![python]
+![java]
+![c++]
+![c]
+![js]
+
+### Other tools
+
+![linux]
+![docker]
+![gitlab]
+![git]
+
+## Stats 📊
+
+<img alt="kajtuszd GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kajtuszd&count_private=true&theme=radical&show_icons=true" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajtuszd&langs_count=6&theme=radical&layout=compact)
+
+[java]: https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[c++]: https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+[c]: https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white
+[django]: https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white
+[drf]: https://img.shields.io/badge/django_rest_framework-50162D?style=for-the-badge&logo=drf&logoColor=white
+[docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[gitlab]: https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
+[git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
+[html]: https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[css]: https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[js]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
+[vue]: https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white
+[linkedin]: https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+[linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[ig]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[strava]: https://img.shields.io/badge/strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white
