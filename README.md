@@ -11,8 +11,6 @@ Keen on learning new foreign languages and travelling.
 ## Contact 📎
 
 [![linkedin]](https://www.linkedin.com/in/kajetan-zdanowicz-932ab7244/)
-[![ig]](https://www.instagram.com/kajetanzdanowicz/)
-[![strava]](https://www.strava.com/athletes/79348506)
 
 ## Technology 🖥️
 
